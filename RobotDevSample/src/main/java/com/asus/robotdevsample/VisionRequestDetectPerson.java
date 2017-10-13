@@ -2,13 +2,14 @@ package com.asus.robotdevsample;
 
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
-
+import com.asus.robotframework.API.VisionControl;
 import com.asus.robotframework.API.MotionControl;
 import com.asus.robotframework.API.RobotAPI;
 import com.asus.robotframework.API.RobotCallback;
@@ -33,13 +34,14 @@ public class VisionRequestDetectPerson extends RobotActivity {
     private TextView mTextViewCancelDetectPerson;
 
     private static Context context;
+    private static Context mContext;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.layout_vision_request_detect_person_and_cancel);
-
+        mContext = this;
         //title
         TextView mTextViewTitle = (TextView)findViewById(R.id.textview_title);
         mTextViewTitle.setText(getString(R.string.toolbar_title_subclass_vision_title));
@@ -130,6 +132,8 @@ public class VisionRequestDetectPerson extends RobotActivity {
 
 
     public static RobotCallback robotCallback = new RobotCallback() {
+
+
         @Override
         public void onResult(int cmd, int serial, RobotErrorCode err_code, Bundle result) {
             super.onResult(cmd, serial, err_code, result);
@@ -163,7 +167,7 @@ public class VisionRequestDetectPerson extends RobotActivity {
         public void onDetectPersonResult(List<DetectPersonResult> resultList) {
             super.onDetectPersonResult(resultList);
             RobotAPI API= new RobotAPI(context);
-
+            Intent intent = new Intent(mContext, MainActivity.class);
 
             if (resultList.size() == 0 || resultList.get(0).getTrackID() == -50) {
                 Log.d("RobotDevSample", "onDetectPersonResult: empty");
@@ -175,12 +179,19 @@ public class VisionRequestDetectPerson extends RobotActivity {
 
                 API.robot.speak("您好歡迎光臨");
                 API.motion.moveBody(0,0,360, MotionControl.SpeedLevel.Body.L3);
-                API.robot.setExpression(RobotFace.HAPPY);
+                //API.robot.setExpression(RobotFace.HAPPY);
+                API.vision.cancelDetectPerson();
+                mContext.startActivity(intent);
+
+
+
+
                 //use toast to show detect person
                 String toast_result = String.valueOf(resultList.get(0));
                 Toast toast = Toast.makeText(context, toast_result, Toast.LENGTH_SHORT);
                 toast.show();
                 resultList.clear();
+
 
             }
 
