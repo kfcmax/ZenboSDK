@@ -1,19 +1,10 @@
 package com.asus.robotdevsample;
 
-import android.os.Bundle;
 import android.app.Activity;
 import android.content.Intent;
+import android.os.Bundle;
 import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.Button;
-import android.widget.ListView;
-import android.widget.TextView;
-
-import com.asus.robotframework.API.RobotCallback;
-import com.asus.robotframework.API.RobotCmdState;
-import com.asus.robotframework.API.RobotErrorCode;
-import com.robot.asus.robotactivity.RobotActivity;
 
 public class MainActivity extends Activity {
 
@@ -51,8 +42,36 @@ public class MainActivity extends Activity {
             }
         });
 
+
+        bt5 = (Button)findViewById(R.id.button5);
+        bt5.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                Intent myIntent = new Intent(MainActivity.this, QaActivity.class);
+                startActivity(myIntent);
+            }
+        });
+
         bt6 = (Button)findViewById(R.id.button6);
         bt6.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                Intent myIntent = new Intent(MainActivity.this, QaActivity.class);
+                startActivity(myIntent);
+            }
+        });
+
+        bt7 = (Button)findViewById(R.id.button7);
+        bt7.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                Intent myIntent = new Intent(MainActivity.this, QaActivity.class);
+                startActivity(myIntent);
+            }
+        });
+
+        bt8 = (Button)findViewById(R.id.button8);
+        bt8.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
                 Intent myIntent = new Intent(MainActivity.this, QaActivity.class);

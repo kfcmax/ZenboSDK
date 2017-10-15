@@ -69,7 +69,7 @@ public class QaActivity extends AppCompatActivity {
                             RobotAPI API= new RobotAPI(context);
 
                             OkHttpClient client = new OkHttpClient();
-                            Request request = new Request.Builder().url("http://220.134.39.80/"+ result.get(0)).build();
+                            Request request = new Request.Builder().url("http://220.134.39.80:5000/"+ result.get(0)).build();
 
                             try {
                                 Response response = client.newCall(request).execute();

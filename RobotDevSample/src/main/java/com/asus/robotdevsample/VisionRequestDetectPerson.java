@@ -9,14 +9,12 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
-import com.asus.robotframework.API.VisionControl;
+
 import com.asus.robotframework.API.MotionControl;
 import com.asus.robotframework.API.RobotAPI;
 import com.asus.robotframework.API.RobotCallback;
 import com.asus.robotframework.API.RobotCmdState;
 import com.asus.robotframework.API.RobotErrorCode;
-import com.asus.robotframework.API.results.DetectFaceResult;
-import com.asus.robotframework.API.RobotFace;
 import com.asus.robotframework.API.results.DetectPersonResult;
 import com.asus.robotframework.API.results.GesturePointResult;
 import com.asus.robotframework.API.results.RecognizePersonResult;
@@ -80,7 +78,7 @@ public class VisionRequestDetectPerson extends RobotActivity {
     }
 
     private void detectPersonClicked() {
-        robotAPI.vision.requestDetectPerson( 5000);
+        robotAPI.vision.requestDetectPerson( 3000);
 
 
         mBtnDetectPerson.setEnabled(false);
@@ -177,11 +175,11 @@ public class VisionRequestDetectPerson extends RobotActivity {
                 Log.d("RobotDevSample", "onDetectPersonResult: " + resultList.get(0).getBodyLoc().toString());
                 Log.d("RobotDevSample", "resultList.size(): " + resultList.size());
 
-                API.robot.speak("您好歡迎光臨");
+                API.robot.speak("歡迎光臨");
                 API.motion.moveBody(0,0,360, MotionControl.SpeedLevel.Body.L3);
                 //API.robot.setExpression(RobotFace.HAPPY);
-                API.vision.cancelDetectPerson();
-                mContext.startActivity(intent);
+                //API.vision.cancelDetectPerson();
+                //mContext.startActivity(intent);
 
 
 
