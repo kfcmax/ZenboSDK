@@ -179,7 +179,7 @@ public class VisionRequestDetectPerson extends RobotActivity {
                 API.motion.moveBody(0,0,360, MotionControl.SpeedLevel.Body.L3);
                 //API.robot.setExpression(RobotFace.HAPPY);
                 //API.vision.cancelDetectPerson();
-                //mContext.startActivity(intent);
+                mContext.startActivity(intent);
 
 
 

@@ -4,22 +4,27 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/back_ground"
+    android:background="@drawable/bg8"
     tools:context="com.asus.robotdevsample.MainActivity">
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
 
     <Button
         android:id="@+id/button1"
-        android:layout_width="175dp"
-        android:layout_height="175dp"
-        android:background="@drawable/video"
-        android:layout_marginBottom="65dp"
-        android:layout_above="@+id/button6"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:background="@drawable/best2"
+        android:layout_marginBottom="83dp"
+        android:layout_above="@+id/button5"
         android:layout_alignStart="@+id/button5" />
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="175dp"
-        android:layout_height="175dp"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
         android:background="@drawable/welcome"
         android:layout_marginStart="77dp"
 
@@ -27,9 +32,9 @@
         android:layout_toEndOf="@+id/button1" />
     <Button
         android:id="@+id/button3"
-        android:layout_width="175dp"
-        android:layout_height="175dp"
-        android:background="@drawable/sale"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:background="@drawable/know2"
 
 
         android:layout_marginStart="98dp"
@@ -38,49 +43,161 @@
         android:layout_toEndOf="@+id/button2" />
     <Button
         android:id="@+id/button4"
-        android:layout_width="175dp"
-        android:layout_height="175dp"
-        android:background="@drawable/monitor"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:background="@drawable/med2"
 
 
-        android:layout_marginStart="79dp"
+        android:layout_marginStart="97dp"
 
-        android:layout_alignBottom="@+id/button1"
+        android:layout_above="@+id/textView4"
         android:layout_toEndOf="@+id/button3" />
     <Button
         android:id="@+id/button5"
-        android:layout_width="175dp"
-        android:layout_height="175dp"
-        android:layout_marginStart="179dp"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_marginStart="182dp"
         android:background="@drawable/location"
-        android:layout_marginBottom="74dp"
+        android:layout_marginBottom="164dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true" />
 
     <Button
         android:id="@+id/button6"
-        android:layout_width="175dp"
-        android:layout_height="175dp"
-        android:background="@drawable/question"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:background="@drawable/inf2"
         android:layout_alignBottom="@+id/button5"
         android:layout_alignStart="@+id/button2" />
 
     <Button
         android:id="@+id/button7"
-        android:layout_width="175dp"
-        android:layout_height="175dp"
-        android:background="@drawable/health"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:background="@drawable/shy2"
 
         android:layout_alignBottom="@+id/button6"
         android:layout_alignStart="@+id/button3" />
 
     <Button
         android:id="@+id/button8"
-        android:layout_width="175dp"
-        android:layout_height="175dp"
-        android:background="@drawable/luggage"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:background="@drawable/cold3"
 
         android:layout_alignBottom="@+id/button7"
         android:layout_alignStart="@+id/button4" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="好康推薦"
+        android:textColor="@android:color/black"
+        android:textSize="35dp"
+        android:layout_below="@+id/button2"
+        android:layout_alignStart="@+id/button1" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="看看我"
+        android:textColor="@android:color/black"
+        android:textSize="35dp"
+        android:layout_below="@+id/button2"
+        android:layout_alignStart="@+id/button2"
+        android:layout_marginStart="30dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/button3"
+        android:layout_below="@+id/button3"
+        android:text="認識一安"
+        android:textColor="@android:color/black"
+        android:textSize="35dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="35dp"
+        android:text="商品諮詢"
+        android:layout_alignBaseline="@+id/textView3"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignStart="@+id/button4" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="找商品"
+        android:textColor="@android:color/black"
+        android:textSize="35dp"
+        android:layout_alignStart="@+id/button5"
+        android:layout_marginStart="26dp"
+        android:layout_alignBottom="@+id/textView6" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="35dp"
+        android:text="關於我們"
+        android:layout_below="@+id/button6"
+        android:layout_alignStart="@+id/button6" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="35dp"
+        android:text="私密商品"
+        android:layout_below="@+id/button7"
+        android:layout_alignStart="@+id/button7" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:text="流感問答"
+        android:textSize="35dp"
+        android:layout_below="@+id/button8"
+        android:layout_alignStart="@+id/button8" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/button4"
+        android:layout_marginEnd="61dp"
+        android:background="@drawable/shy2"
+        android:text=""
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/button9"
+        android:layout_below="@+id/button9"
+        android:text="私密商品"
+        android:textColor="@android:color/black"
+        android:textSize="35dp"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/button100"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView"
+        android:text="Button" />
 </RelativeLayout>

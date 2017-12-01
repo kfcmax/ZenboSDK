@@ -1,145 +1,149 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:2:1-63:12
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:2:1-64:12
 	package
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:3:5-38
-		INJECTED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml
+		INJECTED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml
+		INJECTED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml
+		INJECTED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml
+		INJECTED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml
+		INJECTED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:5:5-67
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:5:22-64
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:6:5-79
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:6:22-76
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:7:5-61:19
-MERGED from [ZenboSDK:RobotActivityLibrary:unspecified] C:\Users\David\Desktop\ZenboSDK\RobotActivityLibrary\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\David\.android\build-cache\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\David\.android\build-cache\a9fcc48e2307ff07086705cf568667c1e22ca5c1\output\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\David\.android\build-cache\2311992d54ba4c301fc931fe9345b04f4a9612ee\output\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\David\.android\build-cache\68df1bf6012a02dbcd0384f802f893d04eeee1e4\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\David\.android\build-cache\436fdd2268985bc6d730723fd36f3cfa2cabd319\output\AndroidManifest.xml:9:5-20
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:8:5-62:19
+MERGED from [ZenboSDK11.30:RobotActivityLibrary:unspecified] D:\APP Project\ZenboSDK11.30\RobotActivityLibrary\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user\.android\build-cache\e72d09f557f4d25e1e5330685e4bd6d619472a2b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user\.android\build-cache\4928b99cc6e37afb5c79a11a7892ced1bc51bdd8\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user\.android\build-cache\8e1eb2fe195d980be6a18b538bacefc5970fe3c7\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user\.android\build-cache\ebdcf19287a71dc739969d799ecf6b20307742e3\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.android\build-cache\40ec59fd304e5f5a8627019a88db29ac9753d957\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:10:9-41
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:11:9-41
 	android:supportsRtl
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:11:9-35
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:12:9-35
 	android:allowBackup
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:8:9-35
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:9:9-35
 	android:icon
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:9:9-43
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:10:9-38
 	android:theme
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:12:9-49
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:13:9-49
 activity#com.asus.robotdevsample.MainActivity
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:23:9-31:20
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:24:9-32:20
 	android:label
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:25:13-56
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:26:13-45
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:24:13-41
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:25:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:27:17-69
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:27:25-66
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:29:17-77
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:29:27-74
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:30:27-74
 activity#com.asus.robotdevsample.VisionActivity
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:34:9-52
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:35:9-52
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:34:19-49
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:35:19-49
 activity#com.asus.robotdevsample.VisionRequestDetectPerson
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:35:9-63
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:36:9-63
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:35:19-60
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:36:19-60
 activity#com.asus.robotdevsample.MotionActivity
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:38:9-52
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:39:9-52
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:38:19-49
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:39:19-49
 activity#com.asus.robotdevsample.MotionMoveBodyHead
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:39:9-56
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:40:9-56
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:39:19-53
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:40:19-53
 activity#com.asus.robotdevsample.MotionRemoteControlBodyHead
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:40:9-65
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:41:9-65
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:40:19-62
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:41:19-62
 activity#com.asus.robotdevsample.RobotActivity
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:43:9-51
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:44:9-51
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:43:19-48
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:44:19-48
 activity#com.asus.robotdevsample.RobotSpeak
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:44:9-48
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:45:9-48
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:44:19-45
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:45:19-45
 activity#com.asus.robotdevsample.RobotSetExpression
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:45:9-56
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:46:9-56
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:45:19-53
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:46:19-53
 activity#com.asus.robotdevsample.UtilityActivity
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:48:9-53
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:49:9-53
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:48:19-50
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:49:19-50
 activity#com.asus.robotdevsample.UtilityPlayAction
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:49:9-55
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:50:9-55
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:49:19-52
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:50:19-52
 activity#com.asus.robotdevsample.UtilityPlayEmotionalAction
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:50:9-64
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:51:9-64
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:50:19-61
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:51:19-61
 activity#com.asus.robotdevsample.WheelLightsActivity
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:53:9-57
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:54:9-57
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:53:19-54
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:54:19-54
 activity#com.asus.robotdevsample.WheelLightsSetBrightness
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:54:9-62
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:55:9-62
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:54:19-59
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:55:19-59
 activity#com.asus.robotdevsample.WheelLightsTurnOff
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:55:9-56
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:56:9-56
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:55:19-53
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:56:19-53
 activity#com.asus.robotdevsample.WheelLightsSetColor
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:56:9-57
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:57:9-57
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:56:19-54
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:57:19-54
 activity#com.asus.robotdevsample.sale
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:57:9-42
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:58:9-42
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:57:19-39
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:58:19-39
 activity#com.asus.robotdevsample.VideoActivity
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:58:9-51
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:59:9-51
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:58:19-48
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:59:19-48
 activity#com.asus.robotdevsample.QaActivity
-ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:59:9-57
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:60:9-48
 	android:name
-		ADDED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml:59:19-45
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:60:19-45
+activity#com.asus.robotdevsample.Private
+ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:61:9-45
+	android:name
+		ADDED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml:61:19-42
 uses-sdk
-INJECTED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [ZenboSDK:RobotActivityLibrary:unspecified] C:\Users\David\Desktop\ZenboSDK\RobotActivityLibrary\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\David\.android\build-cache\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\David\.android\build-cache\a9fcc48e2307ff07086705cf568667c1e22ca5c1\output\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\David\.android\build-cache\2311992d54ba4c301fc931fe9345b04f4a9612ee\output\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\David\.android\build-cache\68df1bf6012a02dbcd0384f802f893d04eeee1e4\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\David\.android\build-cache\436fdd2268985bc6d730723fd36f3cfa2cabd319\output\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [ZenboSDK11.30:RobotActivityLibrary:unspecified] D:\APP Project\ZenboSDK11.30\RobotActivityLibrary\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user\.android\build-cache\e72d09f557f4d25e1e5330685e4bd6d619472a2b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user\.android\build-cache\4928b99cc6e37afb5c79a11a7892ced1bc51bdd8\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user\.android\build-cache\8e1eb2fe195d980be6a18b538bacefc5970fe3c7\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user\.android\build-cache\ebdcf19287a71dc739969d799ecf6b20307742e3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.android\build-cache\40ec59fd304e5f5a8627019a88db29ac9753d957\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\David\.android\build-cache\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user\.android\build-cache\e72d09f557f4d25e1e5330685e4bd6d619472a2b\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml
+		INJECTED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml
+		INJECTED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\David\Desktop\ZenboSDK\RobotDevSample\src\main\AndroidManifest.xml
+		INJECTED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml
+		INJECTED from D:\APP Project\ZenboSDK11.30\RobotDevSample\src\main\AndroidManifest.xml

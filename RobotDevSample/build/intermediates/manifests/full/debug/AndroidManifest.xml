@@ -13,7 +13,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/bear"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/RobotDevToolTheme" >
@@ -29,7 +29,7 @@
         -->
         <activity
             android:name="com.asus.robotdevsample.MainActivity"
-            android:label="@string/title_activity_main" >
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -64,6 +64,7 @@
         <activity android:name="com.asus.robotdevsample.sale" />
         <activity android:name="com.asus.robotdevsample.VideoActivity" />
         <activity android:name="com.asus.robotdevsample.QaActivity" />
+        <activity android:name="com.asus.robotdevsample.Private" />
     </application>
 
 </manifest>

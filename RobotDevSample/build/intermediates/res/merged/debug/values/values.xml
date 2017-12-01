@@ -349,7 +349,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">Zenbo Dev Sample</string>
+    <string name="app_name">一安藥局</string>
     <string name="motion_moveBody_and_movehead">moveBody &amp; moveHead</string>
     <string name="motion_moveBody_api">moveBody(float relativeX, float relativeY, float relativeTheta)</string>
     <string name="motion_moveBody_full">RobotAPI. motion. moveBody</string>

@@ -1,6 +1,18 @@
 [
     {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

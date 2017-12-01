@@ -22,9 +22,12 @@ import org.json.JSONObject;
 public class RobotSetExpression extends RobotActivity {
     private Spinner mSpinner;
     private ArrayAdapter<String> SpinnerList;
-    private String[] FaceCandidateArray = {"INTERESTED", "DOUBTING", "PROUD", "DEFAULT", "HAPPY", "EXPECTING", "SHOCKED", "QUESTIONING", "IMPATIENT", "ACTIVE",
-                                            "PLEASED", "HELPLESS", "SERIOUS", "WORRIED", "PRETENDING", "LAZY", "AWARE_RIGHT", "TIRED", "SHY", "INNOCENT",
-                                            "SINGING", "AWARE_LEFT", "DEFAULT_STILL", "HIDEFACE"};
+    private String[] FaceCandidateArray = {"HIDEFACE"};
+
+//    private String[] FaceCandidateArray = {"INTERESTED", "DOUBTING", "PROUD", "DEFAULT", "HAPPY", "EXPECTING", "SHOCKED", "QUESTIONING", "IMPATIENT", "ACTIVE",
+//            "PLEASED", "HELPLESS", "SERIOUS", "WORRIED", "PRETENDING", "LAZY", "AWARE_RIGHT", "TIRED", "SHY", "INNOCENT",
+//            "SINGING", "AWARE_LEFT", "DEFAULT_STILL", "HIDEFACE"};
+
 
     private Button btn_start;
     private CountDownTimer mCountDownTimer;

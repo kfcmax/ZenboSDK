@@ -4,8 +4,12 @@
         "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\welcome.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
@@ -16,76 +20,76 @@
         "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\video.png",
-        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\video.png"
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\qa.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\qa.png"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\qa.png",
-        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\qa.png"
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\qabg4.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\qabg4.png"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
-        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\location.png"
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\question.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\question.png"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\luggage.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\luggage.png"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome.png",
         "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\welcome.png"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\question.png",
-        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\question.png"
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\location.png"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mic.png",
-        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\ic_mic.png"
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\sale.png",
-        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\sale.png"
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mic.png",
+        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\ic_mic.png"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\luggage.png",
@@ -96,28 +100,80 @@
         "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\bg3.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\bg3.png"
+    },
+    {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\qabg3.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\qabg3.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\med2.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\med2.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\adversting.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\adversting.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\information.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\information.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\cold3.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\cold3.png"
     },
     {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\back_ground.png",
-        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\back_ground.png"
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\sale.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\sale.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\bg7.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\bg7.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\welcome.png"
     },
     {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
@@ -128,23 +184,511 @@
         "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\health.png"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\information.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\information.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\question.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\question.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\qabackground2.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\qabackground2.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\best2.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\best2.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\adversting.png",
+        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\adversting.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\qabackground2.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\qabackground2.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\bear.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\bear.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\sale.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\sale.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\know2.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\know2.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mic.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\know.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\know.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\luggage.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\luggage.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mic.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\bg8.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\bg8.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\cold3.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\cold3.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\ad4.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\ad4.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\inf2.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\inf2.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\luggage.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\luggage.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\med2.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\med2.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\bg3.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\bg3.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\video.png",
+        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\video.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\sale.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\sale.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\question.png",
+        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\question.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\health.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\health.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\know2.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\know2.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\shy2.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\shy2.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\inf2.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\inf2.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\monitor.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\monitor.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\qabg3.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\qabg3.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\bear.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\bear.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\ideation.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\ideation.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\airport.png",
         "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\airport.png"
     },
     {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\welcome.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\health.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\health.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\video.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\video.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mic.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\ideation.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\ideation.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\bg7.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\bg7.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\shy2.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\shy2.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\monitor.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\monitor.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\qa.png",
+        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\qa.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
+        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\back_ground.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\back_ground.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\sale.png",
+        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\sale.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\monitor.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\monitor.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\best2.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\best2.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\back_ground.png",
+        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\back_ground.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\question.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\question.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\ad4.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\ad4.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\airport.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\airport.png"
+    },
+    {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\monitor.png",
         "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\monitor.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\health.png",
+        "source": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\src\\main\\res\\drawable\\health.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\bear.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\bear.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\qabg4.png",
+        "source": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\src\\main\\res\\drawable\\qabg4.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\know.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\know.png"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\adversting.png",
-        "source": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\src\\main\\res\\drawable\\adversting.png"
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\drawable\\bg8.png",
+        "source": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\src\\main\\res\\drawable\\bg8.png"
     }
 ]

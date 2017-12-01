@@ -2,28 +2,106 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/qabg4">
+
+    <TextView
+        android:id="@+id/answer"
+        android:layout_width="15dp"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:text=""
+        android:textSize="50dp"
+
+        android:layout_alignEnd="@+id/imageView"
+        android:layout_toEndOf="@+id/textView9"
+        android:layout_below="@+id/textView10"
+        android:layout_above="@+id/btnSpeak" />
 
     <TextView
         android:id="@+id/txvResult"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="100dp"
-        android:textColor="#000"
-        android:textSize="26sp"
-        android:textStyle="normal"/>
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/textView11"
+        android:layout_marginTop="37dp"
+        android:layout_toEndOf="@+id/textView9"
+        android:textColor="@android:color/black"
+        android:textSize="50dp"
+        android:textStyle="normal" />
 
     <ImageView
         android:id="@+id/btnSpeak"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="60dp"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
         android:gravity="center"
         android:onClick="getSpeechInput"
-        android:src="@drawable/ic_mic"/>
+        android:src="@drawable/ic_mic"
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_alignEnd="@+id/textView11" />
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="79dp"
+        android:gravity="center"
+        android:onClick="getSpeechInput"
+        android:layout_marginEnd="171dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="50dp"
+        android:textColor="@android:color/black"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="70dp"
+        android:layout_above="@+id/btnSpeak"
+        android:layout_below="@+id/textView10" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+
+        android:textSize="50dp"
+        android:textColor="@android:color/black"
+        android:layout_alignTop="@+id/txvResult"
+        android:layout_alignStart="@+id/textView9"
+        android:layout_toStartOf="@+id/answer" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="                        "
+
+        android:textColor="@android:color/black"
+        android:textSize="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/txvResult"
+        android:layout_marginStart="292dp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/txvResult"
+        android:text=""
+        android:layout_above="@+id/btnSpeak"
+        android:layout_toEndOf="@+id/answer" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView10"
+        android:layout_alignStart="@+id/textView11"
+        android:layout_toStartOf="@+id/btnSpeak" />
 </RelativeLayout>

@@ -1,10 +1,34 @@
 [
     {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK10.18\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.30\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "C:\\Users\\David\\Desktop\\ZenboSDK\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\David\\.android\\build-cache\\1ab1a8d58091c3e32f478596a28b37a3d6fe2cf9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\APP Project\\ZenboSDK11.19\\RobotDevSample\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e72d09f557f4d25e1e5330685e4bd6d619472a2b\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]
